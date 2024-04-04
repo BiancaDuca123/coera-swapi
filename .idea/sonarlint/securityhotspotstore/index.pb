@@ -1,0 +1,25 @@
+
+k
+;app/src/main/java/com/example/myapplication/MainActivity.kt,0\0\00ed33bb9fa3f2577abe71150520b83c93b6af18
+@
+build.gradle.kts,d\b\dbcff70658daf80b53ce624f6adcaa529df5ed8d
+D
+app/build.gradle.kts,d\2\d2a4383452aad84a18429a5844d31330a012a9e6
+I
+gradle/libs.versions.toml,d\7\d7595319a0658be6f1ed500ad590d42e4b28bc4f
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
+e
+5app/src/main/java/com/example/myapplication/Planet.kt,a\6\a651d564761701c20f5d7b4a26f5f4a8fb6a39a3
+h
+8app/src/main/java/com/example/myapplication/PlanetDao.kt,0\2\026cde3a825da84cc91c5599399a2224f5174d1c
+m
+=app/src/main/java/com/example/myapplication/PlanetDatabase.kt,a\c\ac85376a33860b7ccab538fb879dbf8fc97d60c0
+i
+9app/src/main/java/com/example/myapplication/ApiService.kt,7\8\783974001f559e68f4f2f92a6e45a2b35430f911
+m
+=app/src/main/java/com/example/myapplication/ApiServiceImpl.kt,c\6\c62cbd4101838c669693b258a8efd08f5a438af5
+l
+<app/src/main/java/com/example/myapplication/PlanetAdapter.kt,f\0\f0a79911faba8fbea60c10407d895ea66c15c031
+A
+gradle.properties,2\a\2afbb999f001938c88fa43fc2ef52abf0f8213e4
